@@ -6,8 +6,8 @@
 |:---:|:---:|:---:|
 | **1.Prodesk** | MERN Stack , HTML , CSS , JavaScript , Postman | https://github.com/FaizanAnwar2801/ProDesk |
 | **2.Predisine** | Python, Support Vector Machine , Random Forest Classifier , Google Colaboratory , StreamLit. | https://github.com/FaizanAnwar2801/Predisine |
-| **4.Employee Management System** | Java , Swing, JDBC, MySQL | https://github.com/FaizanAnwar2801/Employee-Management-System |
-| **5. Smart Car Parking** | Python, Detectron-2, Faster-RCNN, Tensorflow, Google Colaboratory | https://github.com/FaizanAnwar2801/Smart-Car-Parking-Detection-System |
+| **3.Employee Management System** | Java , Swing, JDBC, MySQL | https://github.com/FaizanAnwar2801/Employee-Management-System |
+| **4. Smart Car Parking** | Python, Detectron-2, Faster-RCNN, Tensorflow, Google Colaboratory | https://github.com/FaizanAnwar2801/Smart-Car-Parking-Detection-System |
 
 ---
 #### More Loading.....
