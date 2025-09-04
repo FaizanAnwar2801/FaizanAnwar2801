@@ -1,4 +1,4 @@
-<img src = "https://github.com/FaizanAnwar2801/FaizanAnwar2801/blob/main/Banner_V2%20(2).png?raw=true" alt = "banner">
+<img src = "https://github.com/FaizanAnwar2801/FaizanAnwar2801/blob/main/Banner_V3.png?raw=true" alt = "banner">
 
 ## Projects
 
