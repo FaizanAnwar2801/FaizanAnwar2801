@@ -49,9 +49,9 @@
 
 ## 📜 Certifications
 
-- ![Microsoft](https://img.shields.io/badge/Microsoft_Certified-0078D4?style=flat&logo=microsoft&logoColor=white) **Azure Fundamentals (AZ-900)**
-- ![NPTEL](https://img.shields.io/badge/NPTEL-FF6B6B?style=flat&logo=google-scholar&logoColor=white) **Python for Data Science** by IIT Madras
-- ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white) **Introduction to Git and GitHub** by Google
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **NPTEL Python for Data Science** by IIT Madras
+- **Coursera: Introduction to Git and GitHub** by Google
 
 ---
 
